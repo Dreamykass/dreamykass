@@ -5,7 +5,7 @@ I like space, worldbuilding, science fiction, futurology, and, of course, progra
 ^ My GitHub page, with my projects, a longer about-me section, blog, etc.
 
 <https://dreamykass.github.io/spectrometry-devsite/>\
-^ I'm also working on a game written in Rust, for my diploma project. See more about about it here: 
+^ I'm also working on a game written in Rust, for my diploma project.
 
 
 Technologies that I like and, I like to think, I am familiar with:
